@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ren",
+    "image": "https://i-h1.pinimg.com/564x/bf/70/66/bf7066135bed132741e3e89d087cf8de.jpg",
+    "clickedStatus": false
+  },
+  {
+    "id": 2,
+    "name": "Stimpy",
+    "image": "https://i-h1.pinimg.com/564x/f0/8d/b5/f08db5c2ca1df69da048528382bf657b.jpg",
+    "clickedStatus": false
+  },
+  {
+    "id": 3,
+    "name": "Anthony",
+    "image": "https://vignette.wikia.nocookie.net/renandstimpy/images/6/6a/Anthony.png/revision/latest?cb=20130428170516",
+    "clickedStatus": false
+  },
+  {
+    "id": 4,
+    "name": "Bjork",
+    "image": "https://4.bp.blogspot.com/_mJ4lc_Q9Q6k/Sdc-URj539I/AAAAAAAAc_4/PQaz_Zoq9Vc/s400/19.jpg",
+    "clickedStatus": false
+  },
+  {
+    "id": 5,
+    "name": "Shaven Yak",
+    "image": "https://vignette.wikia.nocookie.net/renandstimpy/images/b/be/Yak.jpg/revision/latest?cb=20160118154907",
+    "clickedStatus": false
+  },
+  {
+    "id": 6,
+    "name": "Old Man Hunger",
+    "image": "https://vignette.wikia.nocookie.net/renandstimpy/images/b/be/Old_Man_Hunger.jpg/revision/latest?cb=20121210015810",
+    "clickedStatus": false
+  },
+  {
+    "id": 7,
+    "name": "Tooth Beaver",
+    "image": "https://i.pinimg.com/originals/a3/96/97/a3969706bd55587d536fb44fc0da09dd.jpg",
+    "clickedStatus": false
+  },
+  {
+    "id": 8,
+    "name": "Mr. Horse",
+    "image": "https://i-h1.pinimg.com/564x/05/a1/27/05a127c65eaf6ea69dd79c46f5faeb49.jpg",
+    "clickedStatus": false
+  },
+  {
+    "id": 9,
+    "name": "Victor",
+    "image": "https://vignette.wikia.nocookie.net/renandstimpy/images/9/90/Victor.png/revision/latest?cb=20130316213713",
+    "clickedStatus": false
+  },
+  {
+    "id": 10,
+    "name": "Baboon",
+    "image": "https://vignette.wikia.nocookie.net/renandstimpy/images/0/0b/The_Baboon.png/revision/latest?cb=20170630222914",
+    "clickedStatus": false
+  },
+  {
+    "id": 11,
+    "name": "Powdered Toastman",
+    "image": "https://vignette.wikia.nocookie.net/renandstimpy/images/d/dd/Toast_Man.jpg/revision/latest/scale-to-width-down/180?cb=20130209015742",
+    "clickedStatus": false
+  },
+  {
+    "id": 12,
+    "name": "Anthony's Dad",
+    "image": "https://i-h1.pinimg.com/564x/18/81/cb/1881cbd6ba37e58c34be87eb17f234fd.jpg",
+    "clickedStatus": false
+  }
+]

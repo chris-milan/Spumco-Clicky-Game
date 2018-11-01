@@ -1,0 +1,30 @@
+
+@import url(https://fonts.googleapis.com/css?family=Spicy+Rice);
+
+.score-bar {
+  width: 100%;
+  font-size: 4em;
+  color: purple;
+  margin-bottom: 50px;
+  background-color: #E0F2F1;
+  padding: 20px;
+  text-shadow: 0px 2px 0px #b2a98f,
+  0px 7px 5px rgba(0,0,0,0.15),
+  0px 12px 2px rgba(0,0,0,0.1),
+  0px 17px 15px rgba(0,0,0,0.1);
+  text-align: center;
+  /* display: inline-block; */
+  box-shadow: 0 6px 9px purple, 0 6px 9px purple;
+}
+
+li {
+  font-family: 'Spicy Rice', cursive;
+  letter-spacing: 3px;
+  display: flex;
+  padding: 10px;
+  margin-left: 100px;
+  display: inline-block;
+  align-items: center;
+}
+
+
